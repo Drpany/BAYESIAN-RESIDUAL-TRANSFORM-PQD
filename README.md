@@ -113,13 +113,13 @@ high-frequency noise, which MAD thresholding suppresses toward zero,
 while the coarsest scale (r₆) retains the fundamental and the sag/swell
 envelope.
 
-![Scale-wise BRT decomposition](figures/BRT_Fig1_Signal_Analysis.png)
+![Scale-wise BRT decomposition](Figures/BRT_Fig1_Signal_Analysis.png)
 
 **Forward cascade.** As kernel size increases, each stage of the cascade
 produces a progressively smoother approximation of the signal, while
 still preserving the sag event around 250 ms throughout every stage.
 
-![Forward BRT cascade](figures/BRT_Fig3_Cascade.png)
+![Forward BRT cascade](Figures/BRT_Fig3_Cascade.png)
 
 **Scale-wise SNRI and THD.** Thresholding the first three detail scales
 gives the largest noise-suppression gain (SNRI peaks at ≈10.8 dB at
@@ -129,7 +129,7 @@ THD falls monotonically with each added scale, from a 9.46% baseline to
 5.3% once all detail scales are thresholded, crossing the IEEE 519-2022
 8% mark at j = 3.
 
-![Scale-wise SNRI and THD vs. thresholded scales](figures/BRT_Fig5_Scalewise_SNRI_THD.png)
+![Scale-wise SNRI and THD vs. thresholded scales](Figures/BRT_Fig5_Scalewise_SNRI_THD.png)
 
 ## Authors
 
