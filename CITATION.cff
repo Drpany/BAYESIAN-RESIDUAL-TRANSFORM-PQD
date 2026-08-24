@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Enhancing Power Quality Signals Using Bayesian Residual Transform"
+authors:
+  - family-names: "Pany"
+    given-names: "Dibya Ranjan"
+    affiliation: "IIIT Bhubaneswar"
+
+  - family-names: "Sethy"
+    given-names: "Ayushman"
+    affiliation: "IIIT Bhubaneswar"
+
+  - family-names: "Das K S"
+    given-names: "Rishandh"
+    affiliation: "IIIT Bhubaneswar"
+
+  - family-names: "Mishra"
+    given-names: "Debani Prasad"
+    affiliation: "IIIT Bhubaneswar"
+
+  - family-names: "Senapati"
+    given-names: "Rudranarayan"
+    affiliation: "KIIT Deemed to be University"
+
+  - family-names: "Samal"
+    given-names: "Sarita"
+    affiliation: "KIIT Deemed to be University"
+date-released: 2026-08-25
+references:
+  - type: article
+    authors:
+      - family-names: "Wong"
+        given-names: "A."
+      - family-names: "Wang"
+        given-names: "X. Y."
+    title: "A Bayesian Residual Transform for Signal Processing"
+    journal: "IEEE Access"
+    volume: 3
+    start: 709
+    end: 717
+    year: 2015
+    doi: "10.1109/ACCESS.2015.2437873"
