@@ -137,6 +137,10 @@ THD falls monotonically with each added scale, from a 9.46% baseline to
 Bhubaneswar
 *(Repository maintainer — MATLAB implementation, algorithm development, and validation)*
 
+**Ayushman Sethy** — Electrical and Electronics Engineering, IIIT
+Bhubaneswar
+*(Core contributor — algorithm development, simulation and validation)*
+
 ## Acknowledgements
 
 - **Dibya Ranjan Pany** — EEE, IIIT Bhubaneswar
