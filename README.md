@@ -146,5 +146,15 @@ Bhubaneswar
 - **Rudranarayan Senapati** — School of Electrical Engineering, KIIT Deemed to be University
 - **Sarita Samal** — School of Electrical Engineering, KIIT Deemed to be University
 
+## MATLAB Implementation & Code Contributors
+
+The MATLAB implementation shared in this repository was developed by:
+
+* **Dibya Ranjan Pany** — EEE, IIIT Bhubaneswar
+* **Ayushman Sethy** — EEE, IIIT Bhubaneswar
+* **Rishandh Das K S** — EEE, IIIT Bhubaneswar
+
+This section specifically acknowledges the contributors responsible for the MATLAB code used for simulation, analysis, and generation of the results presented in the associated research work. The broader research work and publication involved additional academic contributions acknowledged separately below.
+
 Core algorithm concept credited to Wong & Wang (2015); MAD-based
 thresholding methodology credited to Donoho (1995).
